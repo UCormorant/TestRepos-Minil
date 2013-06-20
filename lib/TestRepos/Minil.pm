@@ -5,6 +5,9 @@ use warnings;
 
 our $VERSION = "0.02";
 
+use Class::Component;
+__PACKAGE__->load_components(qw/ Autocall::Autoload /);
+__PACKAGE__->load_plugins(qw/ Hello Baz /);
 
 
 1;

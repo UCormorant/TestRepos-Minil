@@ -42,6 +42,7 @@
       },
       "runtime" : {
          "requires" : {
+            "Class::Component" : "0",
             "perl" : "5.008005"
          }
       },
