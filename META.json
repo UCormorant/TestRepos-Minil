@@ -54,13 +54,13 @@
    "release_status" : "unstable",
    "resources" : {
       "bugtracker" : {
-         "web" : "https://github.com/UCormorant/TestRepos-Mini;/issues"
+         "web" : "https://github.com/UCormorant/TestRepos-Minil/issues"
       },
-      "homepage" : "https://github.com/UCormorant/TestRepos-Mini;",
+      "homepage" : "https://github.com/UCormorant/TestRepos-Minil",
       "repository" : {
          "type" : "git",
-         "url" : "git://github.com/UCormorant/TestRepos-Mini;.git",
-         "web" : "https://github.com/UCormorant/TestRepos-Mini;"
+         "url" : "git://github.com/UCormorant/TestRepos-Minil.git",
+         "web" : "https://github.com/UCormorant/TestRepos-Minil"
       }
    },
    "version" : "0.01"
