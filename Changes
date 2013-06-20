@@ -2,6 +2,8 @@ Revision history for Perl extension TestRepos-Minil
 
 {{$NEXT}}
 
+0.03 2013-06-20T16:26:23Z
+
     - use Class::Component
 
 0.02 2013-06-20T15:44:39Z
